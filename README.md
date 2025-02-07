@@ -1,2 +1,2 @@
 hye
-This is fantastic
+This is fantastic. BYE
